@@ -1,0 +1,13 @@
+C:\Users\AmandaAM\Downloads\loja-web-sessao-starter\loja-web-sessao-starter\src\main\java\br\edu\ifto\web\dao\DatabaseConfig.java
+C:\Users\AmandaAM\Downloads\loja-web-sessao-starter\loja-web-sessao-starter\src\main\java\br\edu\ifto\web\dao\DatabaseInitializerListener.java
+C:\Users\AmandaAM\Downloads\loja-web-sessao-starter\loja-web-sessao-starter\src\main\java\br\edu\ifto\web\dao\ProdutoRepository.java
+C:\Users\AmandaAM\Downloads\loja-web-sessao-starter\loja-web-sessao-starter\src\main\java\br\edu\ifto\web\dao\UsuarioRepository.java
+C:\Users\AmandaAM\Downloads\loja-web-sessao-starter\loja-web-sessao-starter\src\main\java\br\edu\ifto\web\model\Carrinho.java
+C:\Users\AmandaAM\Downloads\loja-web-sessao-starter\loja-web-sessao-starter\src\main\java\br\edu\ifto\web\model\ItemCarrinho.java
+C:\Users\AmandaAM\Downloads\loja-web-sessao-starter\loja-web-sessao-starter\src\main\java\br\edu\ifto\web\model\Produto.java
+C:\Users\AmandaAM\Downloads\loja-web-sessao-starter\loja-web-sessao-starter\src\main\java\br\edu\ifto\web\model\Usuario.java
+C:\Users\AmandaAM\Downloads\loja-web-sessao-starter\loja-web-sessao-starter\src\main\java\br\edu\ifto\web\servlet\CarrinhoItemServlet.java
+C:\Users\AmandaAM\Downloads\loja-web-sessao-starter\loja-web-sessao-starter\src\main\java\br\edu\ifto\web\servlet\CarrinhoServlet.java
+C:\Users\AmandaAM\Downloads\loja-web-sessao-starter\loja-web-sessao-starter\src\main\java\br\edu\ifto\web\servlet\LoginServlet.java
+C:\Users\AmandaAM\Downloads\loja-web-sessao-starter\loja-web-sessao-starter\src\main\java\br\edu\ifto\web\servlet\LogoutServlet.java
+C:\Users\AmandaAM\Downloads\loja-web-sessao-starter\loja-web-sessao-starter\src\main\java\br\edu\ifto\web\servlet\ProdutoServlet.java

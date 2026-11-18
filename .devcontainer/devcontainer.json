@@ -1,0 +1,12 @@
+{
+  "name": "Loja Web Java",
+  "image": "mcr.microsoft.com/devcontainers/java:21",
+  "forwardPorts": [8080],
+  "portsAttributes": {
+    "8080": {
+      "label": "Loja Web",
+      "onAutoForward": "openBrowser"
+    }
+  },
+  "postCreateCommand": "mvn -q package"
+}

@@ -1,0 +1,6 @@
+br\edu\ifto\web\servlet\CarrinhoServlet.class
+br\edu\ifto\web\model\Produto.class
+br\edu\ifto\web\model\Carrinho.class
+br\edu\ifto\web\model\ItemCarrinho.class
+br\edu\ifto\web\servlet\CarrinhoItemServlet.class
+br\edu\ifto\web\servlet\ProdutoServlet.class
